@@ -1,3 +1,3 @@
-module gitee.com/iqer/go_mod_demo
+module github.com/iqer/go_mod_demo
 
 go 1.19
