@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func foo() {
+func Foo() {
 	fmt.Println("func in demo foo()")
 }
 
